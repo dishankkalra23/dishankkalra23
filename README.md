@@ -4,7 +4,7 @@
 
 - 🎓   Studying Computer Science Engineering at NIIT University.
 - ✍️   Learning Stastics and Machine Learning.
-- 🌱   Exploring new technologies and developing solutions for problems
+- 🌱   Exploring new technologies and developing software solution for problems
 
 ## 🛠  Tech Stack
 
@@ -12,4 +12,4 @@
 - 🌐 &nbsp;   HTML | CSS
 - 🛢 &nbsp;    MySQL | PostgreSQL
 - ⚙️ &nbsp;   Git | Github
-- 🔧 &nbsp;   Visual Studio Code | PyCharm
+- 🔧 &nbsp;   Visual Studio Code | PyCharm | Android Studio
