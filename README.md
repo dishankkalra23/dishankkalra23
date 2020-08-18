@@ -3,7 +3,7 @@
 ## 🙋🏽‍♂️  About Me
 
 - 🎓   Studying Computer Science Engineering at NIIT University.
-- ✍️   Learning Stastics and Machine Learning.
+- ✍️   Learning Statistics and Machine Learning.
 - 🌱   Exploring new technologies and developing software solution for problems
 
 ## 🛠  Tech Stack
