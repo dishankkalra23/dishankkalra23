@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there I'm Dishank 
 
-<!--
-**dishankkalra23/dishankkalra23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋🏽‍♂️  About Me
 
-Here are some ideas to get you started:
+- 🎓   Studying Computer Science Engineering at NIIT University.
+- ✍️   Learning Stastics and Machine Learning.
+- 🌱   Exploring new technologies and developing solutions for problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠  Tech Stack
+
+- 💻 &nbsp;   Python | Java | Dart
+- 🌐 &nbsp;   HTML | CSS
+- 🛢 &nbsp;    MySQL | PostgreSQL
+- ⚙️ &nbsp;   Git | Github | Visual Studio Code | PyCharm
