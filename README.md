@@ -11,4 +11,5 @@
 - 💻 &nbsp;   Python | Java | Dart
 - 🌐 &nbsp;   HTML | CSS
 - 🛢 &nbsp;    MySQL | PostgreSQL
-- ⚙️ &nbsp;   Git | Github | Visual Studio Code | PyCharm
+- ⚙️ &nbsp;   Git | Github
+- 🔧 &nbsp;   Visual Studio Code | PyCharm
