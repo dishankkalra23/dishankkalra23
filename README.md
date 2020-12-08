@@ -10,6 +10,7 @@
 
 - 💻 &nbsp;   Python | Java | Dart
 - 🌐 &nbsp;   HTML | CSS
+- 💻 &nbsp;   Excel | Tableau
 - 🛢 &nbsp;    MySQL | PostgreSQL
 - ⚙️ &nbsp;   Git | Github
 - 🔧 &nbsp;   Visual Studio Code | PyCharm | Android Studio
