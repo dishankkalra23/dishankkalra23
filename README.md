@@ -2,13 +2,13 @@
 
 ## 🙋🏽‍♂️  About Me
 
-- 💻   Data Science Intern at IBM 
-- 🎓   Studying Computer Science & Engineering at NIIT University.
+- 💻   Software Engineer at Indian Software Labs,IBM 
+- 🎓   Bachelor's in Computer Science & Engineering from NIIT University.
 - 🌱   Love to explore new technologies and developing software solution for problems
 
 ## 🛠  Tech Stack
 
-- 💻 &nbsp;   Python | SQL | Java
+- 💻 &nbsp;   Python | SQL | HCL
 - 🌐 &nbsp;   HTML | CSS
 - 💻 &nbsp;   Excel | Tableau
 - 🛢 &nbsp;    MySQL | PostgreSQL
