@@ -2,9 +2,9 @@
 
 ## 🙋🏽‍♂️  About Me
 
-- 💻   Software Engineer at IBM India Software Labs
+- 💻   Software Engineer at IBM Cloud
 - 🎓   Bachelor's in Computer Science & Engineering from NIIT University.
-- 🌱   Love to explore new technologies and developing software solution for problems
+- 🌱   Love to explore new technologies and develop software solution for problems
 
 ## 🛠  Tech Stack
 
