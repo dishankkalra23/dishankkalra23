@@ -8,8 +8,7 @@
 
 ## 🛠  Tech Stack
 
-- 💻 &nbsp;   Python | SQL | HCL
-- 🌐 &nbsp;   HTML | CSS
+- 💻 &nbsp;   Python | Bash | Go | Terraform
 - 💻 &nbsp;   Excel | Tableau
 - 🛢 &nbsp;    MySQL | PostgreSQL
 - ⚙️ &nbsp;   Git
